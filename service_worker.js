@@ -1,7 +1,6 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-    '/sanoyakaito.github.io/',
 ];
 
 // インストール処理
